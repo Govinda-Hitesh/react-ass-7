@@ -1,0 +1,29 @@
+label{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+input{
+    position: relative;
+    left:10px;
+}
+.button{
+    border-radius: 10px;
+    width:70px;
+    height:30px;
+    background-color: rgb(241, 134, 134);
+    border: none;
+    position: relative;
+    right: 10px;
+    top:8px;
+}
+.sub{
+    border-radius: 10px;
+    width:80px;
+    height:30px;
+    background-color: rgb(76, 187, 76);
+    border: none;
+    position: relative;
+    top:10px;
+}
